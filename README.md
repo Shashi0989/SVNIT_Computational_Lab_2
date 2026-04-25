@@ -176,7 +176,7 @@ P8
 
 ## 👤 Author
 
-Shashank
+Shashank | 
 Integrated MSc Physics, SVNIT Surat
 
 ---
